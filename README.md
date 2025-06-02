@@ -1,6 +1,6 @@
 In this module, I gained practical experience in front-end web development by building a single static portfolio webpage for a client of ABC Consultant, a fictional placement company helping early-career professionals find industry opportunities.
 
-🚀 Key Skills and Concepts Learned:
+ Key Skills and Concepts Learned:
 HTML: Edited and corrected markup errors, ensuring proper structure and semantic usage.
 
 CSS: Enhanced the visual appearance and layout of the webpage to create a polished and user-friendly interface.
